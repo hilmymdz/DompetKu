@@ -2,6 +2,11 @@
 
 DompetKu adalah aplikasi pencatat keuangan harian berbasis Flutter dengan desain Modern FinTech. Aplikasi ini membantu pengguna melacak pemasukan dan pengeluaran secara offline dengan antarmuka yang bersih, elegan, dan user-friendly.
 
+<b>Nama:</b> Hilmy Muhamad Dzakwan<br>
+<b>NIM:</b> 23552011368<br>
+<b>Kelas:</b> TIF RP 23 CID B<br>
+
+
 ## Screenshot
 
 <table>
