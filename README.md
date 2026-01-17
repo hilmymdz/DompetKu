@@ -1,6 +1,6 @@
-# speney
+# DompetKu
 
-A new Flutter project.
+DompetKu adalah aplikasi pencatat keuangan harian berbasis Flutter dengan desain Modern FinTech. Aplikasi ini membantu pengguna melacak pemasukan dan pengeluaran secara offline dengan antarmuka yang bersih, elegan, dan user-friendly.
 
 ## Getting Started
 
