@@ -10,3 +10,6 @@ DompetKu adalah aplikasi pencatat keuangan harian berbasis Flutter dengan desain
     <td><img src="media/Transaction2.png" width="300"></td>
   </tr>
 </table>
+
+## Demo Video
+https://github.com/hilmymdz/DompetKu/blob/e784ea4dfd7011aa85cda14fb67e7d9c85aaeca6/media/Demo%20Video.mp4
